@@ -1,0 +1,11 @@
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.csproj.AssemblyReference.cache
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.Form1.resources
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.Form2.resources
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.Properties.Resources.resources
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.csproj.GenerateResource.cache
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\bin\Debug\BTDatagridview.exe.config
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\bin\Debug\BTDatagridview.exe
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\bin\Debug\BTDatagridview.pdb
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.exe
+C:\Users\Huynh Thanh Phuc\source\repos\BTDatagridview\BTDatagridview\obj\Debug\BTDatagridview.pdb
